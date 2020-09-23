@@ -5,7 +5,7 @@ Poder crear un sistema mediante alta baja y modificacion  de usuarios de tal man
 
 #Puntos finales:
 ``
-#URL  /api/users/ <br />
+#URL  /api/users/ 
 #URL  /api/users/id
 ``
 
