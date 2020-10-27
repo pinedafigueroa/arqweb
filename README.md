@@ -12,4 +12,4 @@ Poder crear un sistema mediante alta baja y modificacion  de usuarios de tal man
 
 ARQUITECTURA WEB
 
-PINEDA FERNANDO // FIGUEROA ESTEBAN
+PINEDA FERNANDO // FIGUEROA ESTEBAN // IGNACIO ZUGASTI
